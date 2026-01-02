@@ -1,4 +1,4 @@
-import com.leetcode.space.problems.Student;
+import com.leetcode.time.space.complexity.problems.Student;
     // Space: O(1) - no additional storage used
     private static  boolean hasSameGPA(List<Student> students) {
         for (Student s1 : students) {

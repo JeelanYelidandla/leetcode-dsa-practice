@@ -6,7 +6,7 @@ This repo serves as a personal collection of coding challenges, solutions, and n
 
 ## Contents
 
-- 📝 Solutions to Leetcode problems in various languages
+- 📝 Solutions to Leetcode problems in Java languages
 - ⚡ DSA implementation (arrays, stacks, queues, linked lists, trees, graphs, sorting, searching, etc.)
 - 💡 Problem-solving approaches, hints, and best practices
 - 📓 Notes and explanations for common patterns and techniques

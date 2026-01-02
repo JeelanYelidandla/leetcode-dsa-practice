@@ -1,3 +1,5 @@
+package com.leetcode.time.space.complexity.complexity;
+
 public class LinearTimeEx_SumOfArray_4 {
     /*  // Time: O(n) - one loop through the array
         // Space: O(1) - only uses one variable

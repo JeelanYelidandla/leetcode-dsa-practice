@@ -1,4 +1,4 @@
-package com.leetcode.space.problems;
+package com.leetcode.time.space.complexity.problems;
 
 public class CompareBigNBigNSquare {
 
